@@ -1,0 +1,217 @@
+<div align="center">
+
+# Hi, I'm Onkar 👋
+
+### Aspiring Data Analyst · Business Intelligence · Dashboard Storytelling
+
+*I turn raw data into dashboards that help people make decisions.*
+
+<p>
+  <a href="https://www.linkedin.com/in/onkar-tanpure/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-2ea44f?style=for-the-badge" alt="Open to work" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a data analytics learner who enjoys finding the story hidden inside a spreadsheet. I work with real-world style datasets across **sales, retail, sports and public safety**, clean them up, and present the results as interactive dashboards in **Power BI, Tableau and Excel**.
+
+My workflow, end to end:
+
+**Raw Data → Cleaning → Analysis → Interactive Dashboard → Business Insight**
+
+📍 Actively looking for **internships, entry-level roles and mentorship** in **Data Analytics / Business Intelligence**.
+
+---
+
+## 🧠 Core Skills
+
+| **Category** | **Tools & Skills** |
+|---|---|
+| **BI & Visualization** | Power BI · Tableau · Excel Dashboards · Interactive Slicers & Filters · KPI Cards · Maps |
+| **Data Analysis** | Data Cleaning & Transformation · Exploratory Analysis · Trend Analysis · Year-over-Year Comparison |
+| **Excel** | Pivot Tables · Pivot Charts · Slicers · Dashboard Layout Design |
+| **Business Storytelling** | Turning data into insights · Dashboard interpretation for decision-making |
+| **Web Basics** | HTML (FSD-Website) |
+| **Version Control** | Git · GitHub |
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Business Intelligence Dashboards
+
+### 1) 🚦 Road Accident Dashboard · Tableau
+
+Interactive Tableau dashboard analysing **660,679 accident records (2019–2022)** across casualty severity, road and weather conditions, vehicle types, lighting and geography, with year-over-year comparison.
+
+- Built KPI views for total accidents and fatal / serious / slight casualties
+- Used **calculated fields** and **parameters** (current year, previous year, accident severity)
+- Mapped accidents geographically and added sparkline trends
+
+**Key Insights (2020 vs 2021):**
+- Accidents fell about **4.1%** (170,591 → 163,554)
+- Fatal casualties showed the largest drop, about **11.8%**
+
+**Tech:** Tableau · CSV · Calculated Fields · Parameters · Maps
+
+🔗 Repo: https://github.com/onkartanpure3-ds/Road-Accident-Dashboard
+
+---
+
+### 2) 🏅 Olympics Data Analysis · Power BI
+
+Interactive Power BI dashboard exploring Olympic Games data: medal distribution, participating countries, gender-based medal analysis and top athletes.
+
+- **67** sports · **231** countries participated · **148** countries won medals
+- Gender-wise medal distribution and country-wise medal table
+- Historical participation trends and male-to-female participation ratio by year
+- Athlete performance analysis with interactive filters
+
+**Key Insights:**
+- Male athletes won about **72.5%** of medals in the dataset, but female participation has grown significantly over the years
+- The USA leads the overall medal tally
+
+**Tech:** Power BI
+
+🔗 Repo: https://github.com/onkartanpure3-ds/PowerBI_Olympics_Analysis
+
+---
+
+### 3) 🛒 Super Store Sales Dashboard · Power BI
+
+Interactive dashboard exploring sales across customer segments, product categories, payment modes, shipping modes and regions.
+
+- Region slicer (Central, East, South, West) that filters every visual
+- Sales and profit trends by order date
+- Breakdowns by category, sub-category, payment mode and ship mode
+
+**Snapshot:** Consumer is the largest segment (**49.24%**), COD is the most used payment mode (**40.87%**), and Office Supplies has the highest sales count.
+
+**Tech:** Power BI · Excel dataset
+
+🔗 Repo: https://github.com/onkartanpure3-ds/Super-store-Sales-Dashboard
+
+---
+
+### 4) 👗 Vrinda Store Annual Sales Report
+
+Annual sales dashboard analysis that turns raw order data into business-driven insights.
+
+**Key Insights:**
+- Women customers contribute about **64%** of total sales
+- Maharashtra, Karnataka and Uttar Pradesh are the top revenue-generating states
+- Marketplaces such as Amazon, Flipkart and Myntra account for nearly **80%** of orders
+- The adult age group generates the highest share of orders
+
+🔗 Repo: https://github.com/onkartanpure3-ds/Vrinda-store-annual-report-
+
+---
+
+## ☕ Excel Analytics
+
+### 5) ☕ BREW Coffee Sales Dashboard · Excel
+
+Interactive Excel dashboard analysing coffee shop sales, customer behaviour and sales trends.
+
+- Total sales, footfall, average bill value and orders per customer
+- Hourly sales trends to spot peak hours
+- Category and product-wise revenue (coffee, tea, bakery and more)
+- Store location comparison and weekday vs weekend orders
+- Order size distribution (small, regular, large)
+
+**Tech:** Excel · Pivot Tables · Pivot Charts · Slicers · KPI Cards
+
+🔗 Repo: https://github.com/onkartanpure3-ds/BREW-Coffee-Sales
+
+---
+
+## 🌐 Web
+
+### 6) 🌐 FSD-Website
+
+A website project built with HTML.
+
+**Tech:** HTML
+
+🔗 Repo: https://github.com/onkartanpure3-ds/FSD-Website
+
+---
+
+# 🏗️ How I Build a Dashboard
+
+```text
+                      RAW DATA
+                 (CSV · Excel files)
+                          │
+                          ▼
+                  DATA CLEANING
+          Fix types · Handle gaps · Transform
+                          │
+                          ▼
+                 EXPLORATION & KPIs
+          Trends · Segments · Comparisons
+                          │
+                          ▼
+            ┌─────────────┼─────────────┐
+            │             │             │
+          Excel        Power BI       Tableau
+      Pivot Tables   Interactive     Parameters
+       & Slicers      Reports      & Calculated Fields
+            │             │             │
+            └─────────────┼─────────────┘
+                          │
+                          ▼
+                 INTERACTIVE DASHBOARD
+                          │
+                          ▼
+                   BUSINESS INSIGHTS
+```
+
+---
+
+# 🚀 What I'm Working On
+
+- Building more end-to-end dashboards with business-focused KPIs
+- Strengthening my analytics foundation and publishing each project on GitHub with clear insights
+- Looking for **internships, entry-level roles and mentorship** in Data Analytics / BI
+
+<!-- Add anything you're currently learning here, for example SQL, Python, DAX. Only list what you're really working on. -->
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onkartanpure3-ds&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+---
+
+# 📫 Let's Connect
+
+**LinkedIn:** https://www.linkedin.com/in/onkar-tanpure/
+
+<!-- Add your email here if you want recruiters to reach you directly. -->
+
+---
+
+<div align="center">
+
+## 💼 Open to Opportunities
+
+**Data Analyst · BI Analyst · Business Analyst · Dashboard Developer**
+
+⭐ *If you like my projects, feel free to star the repos and share feedback!*
+
+</div>
