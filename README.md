@@ -65,7 +65,7 @@ An interactive dashboard that analyzes **financial performance** and turns raw f
 <!-- TODO: add "Key Results" with real numbers from the project -->
 <!-- TODO: add **Tech:** line with the tools you used -->
 
-🔗 Repo: https://github.com/onkartanpure3-ds/financial-performance-analytics-dashboard
+🔗 Repo: [https://github.com/onkartanpure3-ds/financial-performance-analytics-dashboard](https://github.com/onkartanpure3-ds/financial-performance-analytics-dashboard-main)
 
 ---
 
